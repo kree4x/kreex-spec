@@ -39,7 +39,7 @@
 
 当我们希望一个东西存在，但又不希望它的存在扰乱了我们的视野，扰乱当前视图上下文时，名字前边加一个点，简单又easy。
 
-并且，这是一个历史惯例
+并且，这是一个历史惯例。
 
 这个惯例，来自1971年Unix V1，`ls`命令的一个设计决定(bug)。
 
@@ -52,13 +52,13 @@ Unix/Linux系的文件系统中，存在两个条目
 
 而用户很快发现，如果把一个文件命名为`.xxx`，它就不会出现在ls的输出中。
 
-于是，bug成了feature，feature成了惯例，惯例而成了轶事美谈。
+于是，bug成了feature，feature成了惯例，惯例成了轶事美谈。
 
 而这个本质是个bug的feature所导致的余波，在AI时代还在继续荡漾。
 
 ### 两种设计哲学
 
-OpenSpec项目中， “**.openspec**"还是“**openspec**”的取舍，本身是小事。
+OpenSpec项目中，“**.openspec**”还是“**openspec**”的取舍，本身是小事。
 
 命名背后的两种设计哲学，才是根本的对立点。
 
@@ -79,13 +79,13 @@ OpenSpec项目中， “**.openspec**"还是“**openspec**”的取舍，本身
 
 面对一个工程时，随便放在哪里，都不会导致严重的问题。
 
-真正的杀手级场景，单工程中是看不到。
+真正的杀手级场景，在单工程中是看不到的。
 
 面对杀手级场景时，加不加点根本不重要，spec**无处可放**，才最重要。
 
 ### 局限在Dev内，问题无解
 
-不论“.openspec"还是“openspec”，**当面对多工程时，不论放在哪里都是错**，问题是无解的。
+不论“.openspec”还是“openspec”，**当面对多工程时，不论放在哪里都是错**，问题是无解的。
 
 **单任务，多工程**
 
@@ -119,7 +119,7 @@ OpenSpec项目中， “**.openspec**"还是“**openspec**”的取舍，本身
 
 - examples中一堆嵌套小工程
 
-- Python、TypeScript/JavaScript、React、Agular……
+- Python、TypeScript/JavaScript、React、Angular……
 
 自闭中……
 
