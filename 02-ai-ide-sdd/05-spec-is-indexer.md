@@ -154,3 +154,38 @@ AI辅助下，按照C4模型(或者你认可的其他模型)，进行适度地�
 
 Working，努力工作中，试图提供一个VSC插件……
 
+
+
+**附，不用去翻找，本系列完整清单：**
+
+**Spec系列：**
+
+- 问题与边界
+
+  - [Developer的错觉：SPEC是谁的?](https://zhuanlan.zhihu.com/p/2043647777096324060)
+
+  - [黑色幽默: Console之Back To The Future](https://zhuanlan.zhihu.com/p/2043776466085745079)
+
+  - [两难: 语言模型优先的AI与视觉优先的人类](https://zhuanlan.zhihu.com/p/2044108946550653811)
+
+  - [假象之一: AI无所不能](https://zhuanlan.zhihu.com/p/2044167534631441066)
+
+  - [假象之二: 意图驱动开发](https://zhuanlan.zhihu.com/p/2044510121695376754)
+
+  - [假象之三: SPEC是唯一的事实来源](https://zhuanlan.zhihu.com/p/2044790057106764551)
+
+  - [假象之四: 轻设计的传统敏捷依然有效](https://zhuanlan.zhihu.com/p/2044866444647715551)
+
+  - [假象之五: 人有能力Review AI的产出](https://zhuanlan.zhihu.com/p/2045114498730742818)
+
+  - [图形化驾驭AI：AI约束与Review，所为和所不为](https://zhuanlan.zhihu.com/p/2045254917414286172)
+- [SDD 不仅是当前的最佳实践，也是更远大未来的最好起点](https://zhuanlan.zhihu.com/p/2045836539951837578)
+  - [Dev的自我升级：如何使用SDD引入AI辅助编程？](https://zhuanlan.zhihu.com/p/2046246004358378053)
+  - [SDD锦上添花之一：使用独立工程管理SPEC](https://zhuanlan.zhihu.com/p/2048151406260102475)
+  - [SDD锦上添花之二：直面SPEC碎片化，反向拼合治标，主动破碎治本](https://zhuanlan.zhihu.com/p/2051035115514508351)
+  - [SDD锦上添花之三：Spec过时就过时，任务完成就好](https://zhuanlan.zhihu.com/p/2051377484961260522)
+
+
+
+
+
