@@ -12,7 +12,7 @@
   - [假象之四: 轻设计的传统敏捷依然有效]()
   - [假象之五: 人有能力Review AI的产出]()
   - [所为和所不为]()
-- [前沿探索的最佳实践：SPEC驱动开发]()
+- [SDD 不仅是当前的最佳实践，也是更远大未来的最好起点]()
   - [Dev的自我升级：AI辅助的SDD工作流程](01-ai-assist-workflow.md)
   - [SDD锦上添花之一：使用独立工程管理SPEC](02-location-of-spec.md)
   - [SDD锦上添花之二：直面SPEC碎片化，反向拼合全局](03-task-orientation.md)
